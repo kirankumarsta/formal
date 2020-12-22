@@ -1,6 +1,7 @@
 class k:
     def man:
         print("this is a test")
+        print("hello there")
     
 king=k()
 k.man()
