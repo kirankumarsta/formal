@@ -1,0 +1,6 @@
+class k:
+    def man:
+        print("this is a test")
+    
+king=k()
+k.man()
